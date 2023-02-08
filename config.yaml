@@ -1,7 +1,7 @@
 baseURL: "https://dontbeazombie.netlify.com/"
 languageCode: "en-us"
 title: "Dont be a Zombie"
-theme: "github.com/forestryio/hugo-theme-novela"
+theme: "hugo-theme-novela"
 paginate: 6
 
 taxonomies:
