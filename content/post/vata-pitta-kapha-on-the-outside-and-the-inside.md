@@ -38,3 +38,6 @@ Pitta was at an all-time high! Pachaka was moderate, supporting Samana in its fu
 Kapha though initially was low in strength overall, parts of it were strong. Tarpaka and Kledaka were kind of low, Bodhaka was moderately strong. Avalambaka and Shleshaka were strong. Shleshaka remained high and supported our joints during exertion. Avalambaka supported our marma sthana like Hrdaya and other places in the intense environment!
 
 Coming to think of it, this was after all the place of Lord Kartikeya, the Warrior, the Valiant God of War! His energy pervades through every nook and cranny of the place! So, this is what Lord Kartikeya’s physical form mildly feels like! At my level of receptivity, I was able to maybe just the sniff the energy. But for a person who has developed their higher faculties enough, this would sure be a treat! I hope to get there soon!...
+
+![]()
+
