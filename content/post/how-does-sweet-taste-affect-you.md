@@ -1,13 +1,10 @@
 ---
 _template: blog_post
+date: 2021-02-10T18:30:00Z
+hero: "/images/patrick-fore-nntqbkbku9g-unsplash.jpg"
+title: "How does sweet taste affect you?"
 ---
 
-+++
-date = 2021-02-10T18:30:00Z
-hero = "/images/patrick-fore-nntqbkbku9g-unsplash.jpg"
-title = "How does sweet taste affect you?"
-
-+++
 The second in the series of my taste- effect research is the sweet taste. Sweet taste is most widely consumed taste and has evolutionary advantage over the other tastes. We have evolved to eat sweet tasting foods, more than other tastes as it brings about a feeling of "safeness" in our minds.
 
 According to Ayurveda, sweetness is not just just a gustatory perception, but a functional stimulus for various protective activities in the body. Acharyas explain it as below:

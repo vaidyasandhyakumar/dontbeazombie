@@ -1,13 +1,10 @@
 ---
 _template: blog_post
+date: 2021-01-15T18:30:00Z
+hero: "/images/bitter.jpg"
+title: "How does Bitter taste affect you?"
 ---
 
-+++
-date = 2021-01-15T18:30:00Z
-hero = "/images/bitter.jpg"
-title = "How does Bitter taste affect you?"
-
-+++
 What started as an idea for a short paragraph, turned out to be an eye opener. Off late, I have been trying to establish molecular explanations for ayurvedic principles, not just for my personal understanding, but also for explaining Ayurveda to others.
 
 Vata, pitta, kapha have remained only in the Indian sciences. Teaching Ayurveda to people with knowledge of modern science is a challenge, as they would have to shift their perspective drastically. This may not be accepted by the vast majority. These differences in perspective about one absolute truth about life, must not hinder the seeker's curiosity. So I find it important to show people that Ayurveda is not a mystery box, but is a doorway to infinite knowledge. So, here I have made an effort to explain one of the most basic concepts in Ayurveda, using biomolecules-  effects of Taste.

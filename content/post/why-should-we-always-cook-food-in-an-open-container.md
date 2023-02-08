@@ -1,13 +1,10 @@
 ---
 _template: blog_post
+date: 2022-07-04T18:30:00Z
+hero: "/images/ea099722-7798-473d-a9ad-8b9de1c0caad.jpeg"
+title: "Why should we always cook food in an open container"
 ---
 
-+++
-date = 2022-07-04T18:30:00Z
-hero = "/images/ea099722-7798-473d-a9ad-8b9de1c0caad.jpeg"
-title = "Why should we always cook food in an open container"
-
-+++
 The growing population and the need to provide for everybody has forced us to make some undesired changes in our daily lives. The search of quick and effective life hacks has led to inventions which may not favour man’s health on the long run. One such invention is the pressure cooker. The pressure cooker uses pressure to elevate temperature and cook food within a short time without the wastage of much fuel. As convenient as it sounds, it creates more harm on the long run than any advantages.
 
 Cooking is a process which involves complex chemical and physical transformation in the presence of heat. Digestion is considered homologous to this in our body and hence it is called Pāka in Sanskrit and the components involved in it are collectively called the Agni. In nature, fire always requires the support of air to burn. But if the air is turbulent (wind) then the fire spreads haywire. Similarly the agni in our body also requires the constant support of Samāna vāta to carry out its functions.

@@ -1,13 +1,10 @@
 ---
 _template: blog_post
+date: 2022-07-02T18:30:00Z
+hero: "/images/marion-botella-uahshoidgeo-unsplash.jpg"
+title: "How does Pungent taste affect you?"
 ---
 
-+++
-date = 2022-07-02T18:30:00Z
-hero = "/images/marion-botella-uahshoidgeo-unsplash.jpg"
-title = "How does Pungent taste affect you?"
-
-+++
 As the world changes rapidly, so should our perception of reality. This is the key in seeking the ultimate truth. Ayurveda, as I see is a path for seeking this truth, and the depth of my comprehension of its principles has changed over the years, as I dwell on its thoughts often. In this quest, I yet again attempt to put forward a number of observations made by contemporary scientists which explicitly coincide with the principles mentioned in Ayurveda. Taste as a mere gustatory perception is an idea which is long gone in the contemporary scientific community. In my previous articles I have briefed about how bitter and sweet tastes affect us. Here we shall try to understand the role of the spicy, hot and pungent taste and its role in physiology and pathology.
 
 Ayurveda has explained a vast number of functions for these rasas. Katu rasa is one among the 6 rasas in Ayurveda which corresponds to spicy, hot or pungent sensations. We all love to add up a little spice in our food for that extra punch. But interestingly, this taste provides us with more than just a gustatory punch! Earlier the perception of spicy and hot taste was considered as a mere irritation of the mucous membrane which increased secretions. This wouldn’t have been possible if rasa was only a sensation on the tongue.

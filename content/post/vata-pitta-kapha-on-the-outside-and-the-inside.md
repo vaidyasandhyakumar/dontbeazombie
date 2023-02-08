@@ -1,14 +1,11 @@
 ---
 _template: blog_post
+date: 2023-02-08T18:30:00Z
+draft: true
+hero: "/images/kp.jpg"
+title: "Vata, Pitta, Kapha- on the outside and the inside"
 ---
 
-+++
-date = 2023-02-08T18:30:00Z
-draft = true
-hero = "/images/kp.jpg"
-title = "Vata, Pitta, Kapha- on the outside and the inside"
-
-+++
 Our mind is greatly influenced by the environment we live in. We have all had those days when we feel low when its cloudy or chilly, irritated when it was too hot. When everyone in a room is generally feeling under the weather, we tend to get dragged down as well. If these subtle energies influence our mind directly, then they sure must have direct impact on our body as well. After all, _“sarvam dravyam panchabhautakam asmin arthe”._
 
 Though energy is a subtle entity, it is not a single form or wavelength or frequency of vibration. It exists as a spectrum. That is why we tend to get along well with some people or feel more comfortable in some places more than others, as we resonate well with the energy of that person or place. Thus, physical vibrations may directly affect the body as well. This thought struck me at random while I was trying to recollect my experience at a trek I went on recently. I have been to other places, but something felt different about this trek. Maybe I wasn’t as observant in the other places I went to. But I’m happy that I was able to appreciate a difference this time and my body and mind are accepting new experiences. Though I have not been practicing Pranic Healing very regularly, I’m happy that I was receptive to the energies.
