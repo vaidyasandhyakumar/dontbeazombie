@@ -1,12 +1,11 @@
 ---
-_template: blog_post
-date: 2023-02-08T18:30:00Z
-draft: true
-hero: "/images/kp.jpg"
-title: "Vata, Pitta, Kapha- on the outside and the inside"
+date: '2023-02-08T18:30:00.000Z'
+draft: false
+hero: /images/kp.jpg
+title: 'Vata, Pitta, Kapha- on the outside and the inside'
 ---
 
-Our mind is greatly influenced by the environment we live in. We have all had those days when we feel low when its cloudy or chilly, irritated when it was too hot. When everyone in a room is generally feeling under the weather, we tend to get dragged down as well. If these subtle energies influence our mind directly, then they sure must have direct impact on our body as well. After all, _“sarvam dravyam panchabhautakam asmin arthe”._
+Our mind is greatly influenced by the environment we live in. We have all had those days when we feel low when its cloudy or chilly, irritated when it was too hot. When everyone in a room is generally feeling under the weather, we tend to get dragged down as well. If these subtle energies influence our mind directly, then they sure must have direct impact on our body as well. After all, *“sarvam dravyam panchabhautakam asmin arthe”.*
 
 Though energy is a subtle entity, it is not a single form or wavelength or frequency of vibration. It exists as a spectrum. That is why we tend to get along well with some people or feel more comfortable in some places more than others, as we resonate well with the energy of that person or place. Thus, physical vibrations may directly affect the body as well. This thought struck me at random while I was trying to recollect my experience at a trek I went on recently. I have been to other places, but something felt different about this trek. Maybe I wasn’t as observant in the other places I went to. But I’m happy that I was able to appreciate a difference this time and my body and mind are accepting new experiences. Though I have not been practicing Pranic Healing very regularly, I’m happy that I was receptive to the energies.
 
@@ -18,7 +17,7 @@ The next day we started quite early to ascend the peak and the initial one hour 
 
 With short breaks in between, clicking pictures and snacking, we reached Shesha Parvatha and the peak was just a mountain away. The trek from Shesha Parvatha was inside a dense forest with the sunlight gleaming directly at us through the breaches in the canopy, giving us our daily dose of Vitamin D! The trail then suddenly changed to a vertical arrangement of stacked rocks, and then it led to a perilous monolithic climb. After hiking a little further from there, we reached the peak.
 
-At the peak, I was devoid of thoughts, to an extent where even the thoughts I forced into my mind wouldn’t stay. Just silence. There was noise, excitement and joy all around. Some were extremely tired. But the wind casually blew away all these energies to a distance. What remained was just peace and thoughtlessness amongst all the chaos, like a Lotus Leaf untouched by water… _“Padmapatram ivaambhasa…”._ I enjoyed that silence because, not often does one spontaneously find it.
+At the peak, I was devoid of thoughts, to an extent where even the thoughts I forced into my mind wouldn’t stay. Just silence. There was noise, excitement and joy all around. Some were extremely tired. But the wind casually blew away all these energies to a distance. What remained was just peace and thoughtlessness amongst all the chaos, like a Lotus Leaf untouched by water… *“Padmapatram ivaambhasa…”.* I enjoyed that silence because, not often does one spontaneously find it.
 
 We had to leave from the peak soon after as we have to climb a distance of 14kms all the way down. My descent was also quiet. It was the same path we walked, but at different paces. Concentration seemed to exist naturally. The path was very skiddy with loose rocks and dry mud, but it seemed like my mind automatically calculated where to land my foot at every step. My eyes focussed on every rock on the path confidently and gave directions to my feet to move. It felt as though I was seeing ahead in time. Though the sun was well above our head, I didn’t feel the intense thirst, but the burning feeling inside remained.
 
