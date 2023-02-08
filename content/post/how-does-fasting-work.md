@@ -1,14 +1,11 @@
 ---
 _template: blog_post
+date: 2020-12-10T18:30:00Z
+hero: "/images/fasting.jpg"
+image: "/images/fasting.jpg"
+title: "How does fasting work?"
 ---
 
-+++
-date = 2020-12-10T18:30:00Z
-hero = "/images/fasting.jpg"
-image = "/images/fasting.jpg"
-title = "How does fasting work?"
-
-+++
 I recently looked up the concept of Intermittent fasting for a friend and discoverd that the concepts there are very similar to some concepts in Ayurveda.
 
 So I thought I'll write about it a little.
