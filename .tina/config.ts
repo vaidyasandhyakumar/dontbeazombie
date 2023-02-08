@@ -25,7 +25,7 @@ export default defineStaticConfig({
       {
         name: "post",
         label: "Posts",
-        path: "content/posts",
+        path: "content/post",
         fields: [
           {
             type: "string",
