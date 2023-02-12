@@ -1,10 +1,10 @@
 ---
 title: My theory on Vipaka
 date: '2023-02-11T18:30:00.000Z'
-draft: true
+draft: false
 ---
 
-![](/uploads/julien-tromeur-XChsbHDigQM-unsplash.jpg)
+![](/uploads/julien-tromeur-XChsbHDigQM-unsplash.jpg "")
 
 Learning is fun when we connect the things we know, with the unknown. It gives me sheer joy when something that seemed complex and obscure suddenly becomes clear and simple. Often when we look into the concepts of Ayurveda, there’s a certain layer of ambiguity that envelops our mind, mostly because we are not hardwired to
 think from that perspective. This makes it harder to establish a connection with the true intentions of Acharyas. In the present day, the major roadblock in Ayurveda is simplifying concepts for the modern mind. Dravyaguna vijnana is a subject in Ayurveda which deals with the study of qualities of objects. In a mundane sense, it can be taken as the pharmacology of drugs used in treatment. But in a deeper sense, Drvayaguna is capable of making one comprehend the nature of creation itself. The understanding of Dravyaguna vijnana varies at different stages of
