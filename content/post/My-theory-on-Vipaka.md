@@ -4,6 +4,8 @@ date: '2023-02-11T18:30:00.000Z'
 draft: true
 ---
 
+![](/uploads/julien-tromeur-XChsbHDigQM-unsplash.jpg)
+
 Learning is fun when we connect the things we know, with the unknown. It gives me sheer joy when something that seemed complex and obscure suddenly becomes clear and simple. Often when we look into the concepts of Ayurveda, there’s a certain layer of ambiguity that envelops our mind, mostly because we are not hardwired to
 think from that perspective. This makes it harder to establish a connection with the true intentions of Acharyas. In the present day, the major roadblock in Ayurveda is simplifying concepts for the modern mind. Dravyaguna vijnana is a subject in Ayurveda which deals with the study of qualities of objects. In a mundane sense, it can be taken as the pharmacology of drugs used in treatment. But in a deeper sense, Drvayaguna is capable of making one comprehend the nature of creation itself. The understanding of Dravyaguna vijnana varies at different stages of
 one’s life, and the views unraveled at every point still stand true. This mind-boggling subject has hence been my love, for it tells me the nature of my life, undoubtedly, with an objective outlook.&#x20;
@@ -18,7 +20,6 @@ Vipaka is explained as:
 
 जाठरेणाग्निना योगात् यदुदेति रसान्तरं ।&#x20;
 रसानां परिणामन्ते स विपाक इति स्मृतः ॥   -अ. हृ. सू. 9&#x20;
-
 
 Vipaka is the end transformation of a rasa, after initial digestion has taken place with the help of the jatharagni. This is the verse we all learnt since our initial introduction to Dravyaguna but never quite understood where and how this end transformation takes place and how it influences the body. A few more insights given on this concept by other authors opine that vipaka leads to formation of dhatu rupa doshas, or simply put, the building blocks of the body. This seemed interesting …
 
@@ -66,4 +67,3 @@ After all this beating around the bush, let me summarize my theory:
 * Vipaka is a Vishesha paka occurring after digestion in the koshtha. Paka means transformation or metabolism, and hence specific metabolic pathways in the body may be grouped under the three kinds of vipakas and explained.
 
 Thanks for making it till the end. Cheers!
-
