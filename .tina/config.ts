@@ -16,7 +16,7 @@ export default defineStaticConfig({
   },
   media: {
     tina: {
-      mediaRoot: "uploads",
+      mediaRoot: "images",
       publicFolder: "static",
     },
   },
@@ -38,6 +38,11 @@ export default defineStaticConfig({
             type: "datetime",
             label: "Date",
             name: "date",
+          },
+          {
+            type: "string",
+            name: "hero",
+            label: "Hero",
           },
           {
             type: "boolean",
