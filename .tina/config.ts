@@ -40,7 +40,7 @@ export default defineStaticConfig({
             name: "date",
           },
           {
-            type: "string",
+            type: "image",
             name: "hero",
             label: "Hero",
           },
